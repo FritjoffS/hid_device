@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # HID Device Scanner
 
 This application scans the computer for Human Interface Devices (HID) and checks for any issues that might be present.
