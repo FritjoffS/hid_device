@@ -1,0 +1,9 @@
+# Core dependencies for HID device scanning and GUI
+pyhidapi==0.9.0.post2
+PyQt5==5.15.4
+
+# For building the application
+pyinstaller==4.5
+
+# Optional: For enhanced logging capabilities
+loguru==0.5.3
